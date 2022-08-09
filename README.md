@@ -18,7 +18,4 @@ This project uses the following technologies:
 + fetch
 
 
-*For running execute the following command: npm run dev*
 
-*Visit my tech blog www.bravedeveloper.com*
-*Gerson Azabache Martínez*
